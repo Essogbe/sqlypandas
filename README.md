@@ -61,9 +61,9 @@ Vous pouvez vous amusez à ajouter des  fonctions pour vous exercer et les teste
 - Implémenter des **fonctionnalités avancées d'agrégation** (comme `sum()`, `mean()`, etc.) dans la fonction `group_by()`.
 - Ajouter des **tests unitaires** pour garantir la stabilité du code.
 
-### Ressources en SQL)
+### Ressources en SQL
 - ![Guide SQL Isheero-AI](https://github.com/iSheero-AI/learning-resources/blob/master/docs/01-Beginner%20Courses/04-SQL.md)
-- ![Portfolio SQL](https://youtu.be/qfyynHBFOsM?si=jIxBRrd-wIhjinnd)
+- ![Portfolio SQL](https://youtu.be/qfyynHBFOsM?si=jIxBRrd-wIhjinnd) : Exploration de données Covid 
 ---
 
 ## Contributions
