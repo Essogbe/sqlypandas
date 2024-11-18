@@ -4,7 +4,7 @@
 **SQLyPandas** est un projet éducatif créé dans le but d'aider les utilisateurs à apprendre et à s'exercer à manipuler des bases de données SQL en utilisant des fonctions inspirées de la bibliothèque Pandas. Ce projet permet aux utilisateurs de découvrir et de comprendre comment effectuer des opérations SQL courantes, tout en s'appuyant sur des concepts familiers de Pandas. 
 
 ---
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j9HYdpRkxkE_Bt4NjtlTHwi1rt9Lh3sP?usp=sharing)]
 ## Objectif du projet
 
 L'objectif de **SQLyPandas** est d’offrir un moyen simple et pratique pour les utilisateurs d'apprendre à interagir avec une base de données SQL à travers des fonctions similaires à celles de Pandas. En utilisant ces fonctions, les utilisateurs peuvent effectuer des tâches courantes de manipulation de données (sélection, jointure, gestion des valeurs manquantes, calcul de statistiques, etc.) de manière fluide et compréhensible. Pour des besoins de simplicité, le code est procédurale 
