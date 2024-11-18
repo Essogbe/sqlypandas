@@ -63,7 +63,8 @@ Vous pouvez vous amusez à ajouter des  fonctions pour vous exercer et les teste
 
 ### Ressources en SQL
 - ![Guide SQL Isheero-AI](https://github.com/iSheero-AI/learning-resources/blob/master/docs/01-Beginner%20Courses/04-SQL.md)
-- ![Portfolio SQL](https://youtu.be/qfyynHBFOsM?si=jIxBRrd-wIhjinnd) : Exploration de données Covid 
+- ![Portfolio SQL](https://youtu.be/qfyynHBFOsM?si=jIxBRrd-wIhjinnd) : Exploration de données Covid
+- ![Apprendre les bases de données relationnelles avec SQL par Havard CS50](https://youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0&si=-EJJKuxHwhb1D12V)
 ---
 
 ## Contributions
